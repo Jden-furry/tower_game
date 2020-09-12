@@ -1,4 +1,5 @@
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![LICENSE]
+[![Run on Repl.it](https://repl.it/badge/github/iamkun/tower_game)](https://repl.it/github/iamkun/tower_game)(https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 English | [简体中文](./README.zh-CN.md)
 
